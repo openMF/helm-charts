@@ -3,16 +3,16 @@ entries:
   ph-ee-g2psandbox-security:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2025-10-27T07:11:30.481390949Z"
+    created: "2025-10-27T07:19:37.981630389Z"
     dependencies:
     - name: ph-ee-engine
       repository: https://openmf.github.io/helm-charts/payment-hub/images/jira-story-version/ph-ee-engine-0.0.0-SNAPSHOT-gaz-226
       version: 0.0.0-SNAPSHOT-gaz-226
     description: PaymentHub EE Barebone Edition
-    digest: 60cae9c6ec1684d522437699c95f9474061aa838b9c79e5cb1c83f346f9822f5
+    digest: 6beb9d34fa00379e92d48aa7fa88566d19bc7e8616ce2e4d902395117a451363
     name: ph-ee-g2psandbox-security
     type: application
     urls:
     - ph-ee-g2psandbox-security-0.0.0-gaz-226.tgz
     version: 0.0.0-gaz-226
-generated: "2025-10-27T07:11:30.348939513Z"
+generated: "2025-10-27T07:19:37.896216215Z"
