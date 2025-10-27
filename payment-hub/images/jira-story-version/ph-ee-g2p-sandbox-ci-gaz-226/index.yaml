@@ -3,16 +3,16 @@ entries:
   ph-ee-g2p-sandbox-ci:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-10-27T06:15:40.988449581Z"
+    created: "2025-10-27T07:11:17.436292137Z"
     dependencies:
     - name: ph-ee-g2psandbox
       repository: https://openmf.github.io/helm-charts/payment-hub/images/jira-story-version/ph-ee-g2psandbox-0.0.0-gaz-226
       version: 0.0.0-gaz-226
     description: A Helm chart for CI/CD
-    digest: 5a2d7cd74553255536e93c0b7142f282430e57fea436339c8681a1e360d73a20
+    digest: 92ce5cbb93bf4db0756908dff5b661c501d64ae3dead81c4a35eee89caad6989
     name: ph-ee-g2p-sandbox-ci
     type: application
     urls:
     - ph-ee-g2p-sandbox-ci-0.0.0-gaz-226.tgz
     version: 0.0.0-gaz-226
-generated: "2025-10-27T06:15:40.903512788Z"
+generated: "2025-10-27T07:11:17.304774673Z"
