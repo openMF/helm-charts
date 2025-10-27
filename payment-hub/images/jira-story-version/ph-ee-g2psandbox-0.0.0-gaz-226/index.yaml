@@ -3,7 +3,7 @@ entries:
   ph-ee-g2psandbox:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2025-10-27T09:59:18.265023656Z"
+    created: "2025-10-27T10:25:27.471903758Z"
     dependencies:
     - name: ph-ee-engine
       repository: https://openmf.github.io/helm-charts/payment-hub/images/jira-story-version/ph-ee-engine-0.0.0-SNAPSHOT-gaz-226
@@ -12,10 +12,10 @@ entries:
       repository: file://../identity-account-mapper/account-mapper
       version: 1.0.0
     description: PaymentHub EE Barebone Edition
-    digest: f77ea72e0075ba3b648962e095cd33ff013fd8d862c1bf74270e641f34a3aaf1
+    digest: 892edf732b904fb146e09bd321c2a8e30b92fc21cf032839346a95b790166d40
     name: ph-ee-g2psandbox
     type: application
     urls:
     - ph-ee-g2psandbox-0.0.0-gaz-226.tgz
     version: 0.0.0-gaz-226
-generated: "2025-10-27T09:59:18.166759572Z"
+generated: "2025-10-27T10:25:27.344101068Z"
