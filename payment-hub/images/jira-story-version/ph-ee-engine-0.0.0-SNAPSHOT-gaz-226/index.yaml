@@ -3,7 +3,7 @@ entries:
   ph-ee-engine:
   - apiVersion: v1
     appVersion: 0.0.0
-    created: "2025-10-27T04:13:41.697100831Z"
+    created: "2025-10-27T04:16:42.77341752Z"
     dependencies:
     - condition: camunda-platform-helm.enabled
       name: camunda-platform
@@ -127,9 +127,9 @@ entries:
       repository: file://./connector-ph-ee-bulk
       version: 1.0.0
     description: PaymentHub EE Engine
-    digest: e9d2b8defe1a7ca2cf3c604017101ce29945cbf49759ba75a423089294a5fa97
+    digest: 7c479189b5e304b07f0ddd2c42abb264ffacfdc7e5ac49e196b326ab7ba4b8ff
     name: ph-ee-engine
     urls:
     - ph-ee-engine-0.0.0-SNAPSHOT-gaz-226.tgz
     version: 0.0.0-SNAPSHOT-gaz-226
-generated: "2025-10-27T04:13:41.604408626Z"
+generated: "2025-10-27T04:16:42.685088875Z"
